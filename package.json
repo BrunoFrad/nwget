@@ -1,0 +1,17 @@
+{
+  "name": "nwget",
+  "version": "0.1.0",
+  "description": "A wget-like CLI made with node.js",
+  "bin": "src/cli.js",
+  "main": "src/cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Bruno Frade",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "commander": "^14.0.2"
+  }
+}
